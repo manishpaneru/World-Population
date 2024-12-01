@@ -1,4 +1,5 @@
 ﻿Exploratory Data Analysis: World Population Dataset
+__________________________________________________________________________________________________________________
 Project Description
 This project involves performing exploratory data analysis (EDA) on a dataset of world population statistics. The analysis aims to uncover insights about global population distribution, trends, and relationships between different features such as population, area, and density. The project involves data cleaning, correlation analysis, and various visualizations to highlight key patterns.
 ________________
